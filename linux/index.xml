@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Nogeese Linux</title>
+    <link>https://leon8326-nogeese.github.io/rss/linux/</link>
+    <description>News and info about Nogeese Linux.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jan 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Nogeese Linux hits Beta!</title>
+      <link>https://raw.githubusercontent.com/leon8326-nogeese/rss/linux/hits-beta.html</link>
+      <description>Nogeese Linux hits 1st Beta.</description>
+      <pubDate>Wed, 30 Jan 2025 12:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
