@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Nogeese Linux</title>
-    <link>https://leon8326-nogeese.github.io/rss/linux/</link>
+
+    <image>
+  <url>https://leon8326-nogeese.github.io/rss/favicon.ico</url>
+  <title>Nogeese Linux</title>
+  <link>https://leon8326-nogeese.github.io/rss/linux/</link>
+</image>
     <description>News and info about Nogeese Linux.</description>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jan 2025 12:00:00 GMT</lastBuildDate>
